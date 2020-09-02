@@ -1,0 +1,7 @@
+<view class="container">
+	<image class="avatar" src="/images/avatar/1.png"></image>
+	<text class="moto">Hello|王先生</text>
+	<view  class="button-container">
+		<text class="button-text">欢迎进入我的小程序</text>
+	</view>
+</view>
